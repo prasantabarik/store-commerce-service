@@ -1,0 +1,19 @@
+name: store-commerce-service
+namespace: ""
+cdPipelineName: ""
+cdPipelineStageName: ""
+dnsWildcard: 59ae6b648ca3437aae3a.westeurope.aksapp.io
+framework: java11
+
+database:
+  required: false
+
+
+ingress:
+  required: true
+  site: store-commerce-service
+  path: /api/v1/store-commerce-service
+
+image:
+  name: store-commerce-service
+  version: latest
