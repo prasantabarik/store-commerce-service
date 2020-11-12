@@ -1,0 +1,1485 @@
+
+{
+  "data" :
+  {
+    "id": 1001,
+    "isFranchise": false,
+    "name": "Amsterdam - Nieuwezijds Voorburgwal",
+    "address": "Nieuwezijds Voorburgwal 226 ",
+    "addressCodeEan": 8710400010012,
+    "postalCode": "1012RR",
+    "city": "AMSTERDAM",
+    "countryCode": "NLD",
+    "countryName": "Nederland",
+    "lifeCycleStatus": "Open",
+    "phoneNumber": "(020)4218344",
+    "eslStartDate": "2020-06-08",
+    "eslVendor": "Hanshow",
+    "formatPeriods": [
+      {
+        "id": 19,
+        "description": "AH DNAH",
+        "dateValidFrom": "2019-10-11",
+        "dataValidUntil": "2099-12-31"
+      }
+    ],
+    "cluster": 522,
+    "region": 502,
+    "openingTimes": [
+      {
+        "weekDay": 4,
+        "openingTime": "07:00:00",
+        "closingTime": "22:00:00"
+      },
+      {
+        "weekDay": 5,
+        "openingTime": "07:00:00",
+        "closingTime": "22:00:00"
+      },
+      {
+        "weekDay": 3,
+        "openingTime": "07:00:00",
+        "closingTime": "22:00:00"
+      },
+      {
+        "weekDay": 2,
+        "openingTime": "07:00:00",
+        "closingTime": "22:00:00"
+      },
+      {
+        "weekDay": 6,
+        "openingTime": "07:00:00",
+        "closingTime": "22:00:00"
+      },
+      {
+        "weekDay": 7,
+        "openingTime": "07:00:00",
+        "closingTime": "22:00:00"
+      },
+      {
+        "weekDay": 1,
+        "openingTime": "07:00:00",
+        "closingTime": "22:00:00"
+      }
+    ],
+    "storeClusterPeriods": [
+      {
+        "code": "FVOS",
+        "description": "FILIAAL VOORRAAD SYSTEEM",
+        "categoryCode": "AFLCOM",
+        "categoryDescription": "AFLEVER COMMUNICATIE",
+        "dateValidFrom": "2000-04-24",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "tbv conversie NDM naar xfb/cft",
+        "categoryCode": "XFBFIL",
+        "categoryDescription": "DATACOMMUNICATIE mbv XFB/CFT",
+        "dateValidFrom": "2003-01-21",
+        "dataValidUntil": null
+      },
+      {
+        "code": "01",
+        "description": "C.S. ZAANDAM",
+        "categoryCode": "CENSLA",
+        "categoryDescription": "CENTRALE SLAGERIJ",
+        "dateValidFrom": "1997-03-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "FBA-FILIAAL",
+        "categoryCode": "FBAIND",
+        "categoryDescription": "INDICATIE DEELNAME FBA  VAST",
+        "dateValidFrom": "1997-04-08",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "JA  WINKEL-COMMUNICATIE",
+        "categoryCode": "FILBER",
+        "categoryDescription": "FILIAALBERICHT            VAST",
+        "dateValidFrom": "1997-04-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "VERWERKEN B EN C CORRECTIES WA",
+        "categoryCode": "FILFBC",
+        "categoryDescription": "FILIAAL B EN C CORRECTIE",
+        "dateValidFrom": "1997-04-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "FILIAAL BESTURINGS INFORMATIE",
+        "categoryCode": "FILFBI",
+        "categoryDescription": "FILIAAL BESTURINGS INFORMATIE",
+        "dateValidFrom": "1997-05-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "GROEP1",
+        "description": "1004 T/M 1063       A. V/D BEN",
+        "categoryCode": "FILFIM",
+        "categoryDescription": "FILIALEN ITEM MOVEMENT",
+        "dateValidFrom": "1997-04-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "JA     WA",
+        "categoryCode": "FILFPG",
+        "categoryDescription": "FILIAAL PERSONEELSGEGEVENS",
+        "dateValidFrom": "1997-04-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "GELD TEL KANTOREN",
+        "categoryCode": "FILGTK",
+        "categoryDescription": "FILIAAL GELD TEL KANTOREN",
+        "dateValidFrom": "1997-04-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "JA",
+        "categoryCode": "FILFBA",
+        "categoryDescription": "FILIALEN MET RFBA",
+        "dateValidFrom": "1998-10-19",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "JA",
+        "categoryCode": "FILFVO",
+        "categoryDescription": "FILIAAL VOORRAAD SYSTEEM",
+        "dateValidFrom": "1998-07-30",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "Centraal/Decentraal toevoegen",
+        "categoryCode": "CeDe",
+        "categoryDescription": "Centraal- Decentraal toevoegen",
+        "dateValidFrom": "2000-08-17",
+        "dataValidUntil": null
+      },
+      {
+        "code": "1693",
+        "description": "FILIALEN VOOR GTK 1693",
+        "categoryCode": "GTKFIL",
+        "categoryDescription": "GELDTELKANTOOR FILIALEN",
+        "dateValidFrom": "1999-12-23",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "Ja",
+        "categoryCode": "FILAWX",
+        "categoryDescription": "COMMUNICATIE AFWA-FKVW",
+        "dateValidFrom": "1999-02-18",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "FILIAAL BESTURINGS INFORM R.3",
+        "categoryCode": "FILFB3",
+        "categoryDescription": "FILIAAL BESTURINGS INFORM R.3",
+        "dateValidFrom": "1999-04-01",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv 6, 19, 20 en 21",
+        "categoryCode": "LANDLK",
+        "categoryDescription": "Acties NL en Belgie ex Togo",
+        "dateValidFrom": "2006-03-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "form 5, 6, 15, 16, 19, 20, 21",
+        "categoryCode": "TOTAAL",
+        "categoryDescription": "Acties NL en Belgie",
+        "dateValidFrom": "2006-04-04",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties wijnzuil Nederland",
+        "categoryCode": "WYNZL",
+        "categoryDescription": "Acties wijnzuil Nederland",
+        "dateValidFrom": "2004-12-06",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "UITSLUITEN AHXL",
+        "categoryCode": "MIN XL",
+        "categoryDescription": "CLUSTER OM AHXL UIT TE SLUITEN",
+        "dateValidFrom": "2004-11-05",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "ACTIES FOODSERVICE WINKELS",
+        "categoryCode": "CAFE",
+        "categoryDescription": "SPECIFIEKE ACTIES FOODSERVICE",
+        "dateValidFrom": "2004-12-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "Situatie4",
+        "description": "Incl FVOS/IVA zonder DBL ADFO",
+        "categoryCode": "CAVEJN",
+        "categoryDescription": "Te journaliseren filiaal",
+        "dateValidFrom": "2003-04-21",
+        "dataValidUntil": null
+      },
+      {
+        "code": "BE",
+        "description": "ZAANDAM  99915",
+        "categoryCode": "GRCENT",
+        "categoryDescription": "GROENTE CENTRALE",
+        "dateValidFrom": "1997-03-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "HK2F",
+        "description": "NIEUWE INTERFACE WINKELS",
+        "categoryCode": "INTFIL",
+        "categoryDescription": "INTERFACE FILIALEN    VAST",
+        "dateValidFrom": "2000-03-09",
+        "dataValidUntil": null
+      },
+      {
+        "code": "1",
+        "description": "ADAM,RDAM,S'HAGE(ZIE DL 2)",
+        "categoryCode": "NIELS",
+        "categoryDescription": "NIELSEN",
+        "dateValidFrom": "1997-03-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ZAANDAM",
+        "description": "ZAANDAM FILIALEN",
+        "categoryCode": "REGDC",
+        "categoryDescription": "REGIONAAL DC            VAST",
+        "dateValidFrom": "1997-03-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "MATCH",
+        "description": "LOGB.+RZ.FAKT MATCHEN VAST",
+        "categoryCode": "RZMCLS",
+        "categoryDescription": "RZ.MATCH CLUSTER          VAST",
+        "dateValidFrom": "1997-04-05",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ZAANDAM",
+        "description": "ZAANDAM FILIALEN",
+        "categoryCode": "VERSDC",
+        "categoryDescription": "VERS DC",
+        "dateValidFrom": "1997-03-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "KERST3",
+        "description": "acties tbv kerst rad",
+        "categoryCode": "ACTIE",
+        "categoryDescription": "CLUS tbv ASAP",
+        "dateValidFrom": "2015-11-09",
+        "dataValidUntil": null
+      },
+      {
+        "code": "KERST2",
+        "description": "acties tbv kerst rad",
+        "categoryCode": "ACTIE",
+        "categoryDescription": "CLUS tbv ASAP",
+        "dateValidFrom": "2015-12-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "KERST1",
+        "description": "acties tbv kerst rad",
+        "categoryCode": "ACTIE",
+        "categoryDescription": "CLUS tbv ASAP",
+        "dateValidFrom": "2015-12-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "AH XL",
+        "description": "acties tbv ah xl-filialen",
+        "categoryCode": "ACTIE",
+        "categoryDescription": "CLUS tbv ASAP",
+        "dateValidFrom": "2007-06-12",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv Doorbraakfilialen",
+        "categoryCode": "DB",
+        "categoryDescription": "acties tbv Doorbraak",
+        "dateValidFrom": "2015-07-06",
+        "dataValidUntil": null
+      },
+      {
+        "code": "DASA",
+        "description": "PILOT DASA",
+        "categoryCode": "ARTCOM",
+        "categoryDescription": "ARTIKELCOMMUNICATIE       VAST",
+        "dateValidFrom": "2000-06-30",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "FILIAAL RETOUR AFHANDELING",
+        "categoryCode": "FILFRA",
+        "categoryDescription": "RETOURENAFHANDELING",
+        "dateValidFrom": "1997-04-05",
+        "dataValidUntil": null
+      },
+      {
+        "code": "J",
+        "description": "NETVIEW NDM COMMUNICATIE",
+        "categoryCode": "FILNDM",
+        "categoryDescription": "FILIAAL MET NETVIEW NDM COMMUN",
+        "dateValidFrom": "1997-04-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "acties tbv Halal filialen",
+        "categoryCode": "HALAL",
+        "categoryDescription": "Acties tbv Halal filialen",
+        "dateValidFrom": "2013-05-18",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00471",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2018-03-24",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00453",
+        "description": "C",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2018-02-26",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00448",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2018-01-04",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00431",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-12-14",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00382",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-08-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00359",
+        "description": "UAD",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2019-11-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00356",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-06-21",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00331",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-06-13",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00328",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-06-13",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00326",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-06-13",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00324",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-06-13",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00301",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-06-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00293",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-06-01",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00289",
+        "description": "C",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-06-01",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00281",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-31",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00279",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-31",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00268",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-16",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00267",
+        "description": "B",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2020-09-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00264",
+        "description": "B",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2020-08-11",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00252",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-16",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00236",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-11",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00222",
+        "description": "E",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-09",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00203",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-05",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00199",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00195",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00186",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00183",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00181",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00179",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-05-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00159",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-04-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00157",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-04-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00137",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-04-21",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00134",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2018-03-05",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00120",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-03-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00118",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-03-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00116",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-03-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00110",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-03-21",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00106",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2018-05-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00092",
+        "description": "A",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-03-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00090",
+        "description": "D",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2017-03-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00080",
+        "description": "B",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2018-04-09",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00059",
+        "description": "STA",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2016-09-24",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00052",
+        "description": "BIO",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2018-05-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00042",
+        "description": "STD",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2010-10-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00040",
+        "description": "STD",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2010-10-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C00038",
+        "description": "STD",
+        "categoryCode": "SGPC",
+        "categoryDescription": "Samengestelde clusters",
+        "dateValidFrom": "2010-10-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "CITY",
+        "description": "City winkels",
+        "categoryCode": "FORMAT",
+        "categoryDescription": "Vastlegging winkel formaat",
+        "dateValidFrom": "2011-11-03",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv zelfscanfilialen",
+        "categoryCode": "ZELFSC",
+        "categoryDescription": "Zelfscanfilialen",
+        "dateValidFrom": "2015-07-06",
+        "dataValidUntil": null
+      },
+      {
+        "code": "STANDAARD",
+        "description": "STANDAARD WORP",
+        "categoryCode": "NOTECL",
+        "categoryDescription": "NOTE BOX CLUSTERWORP",
+        "dateValidFrom": "2010-10-27",
+        "dataValidUntil": null
+      },
+      {
+        "code": "TOTAAL",
+        "description": "STANDAARD WORP",
+        "categoryCode": "NOTEET",
+        "categoryDescription": "NOTE ENTERTAINMENT",
+        "dateValidFrom": "2010-10-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "STANDAARD",
+        "description": "STANDAARD WORP",
+        "categoryCode": "NOTEKT",
+        "categoryDescription": "NOTE KOKEN&TAFELEN",
+        "dateValidFrom": "2010-10-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv NL exc ToGo, Belgie",
+        "categoryCode": "LNDNL",
+        "categoryDescription": "Acties voor NL excl Togo",
+        "dateValidFrom": "2010-12-15",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv 5, 6, 19, 20",
+        "categoryCode": "TOTNL",
+        "categoryDescription": "Acties NL incl Togo",
+        "dateValidFrom": "2010-12-15",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv DNAH en BELGIE",
+        "categoryCode": "DNAHBE",
+        "categoryDescription": "Acties in form 19 en 21",
+        "dateValidFrom": "2015-07-06",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties wijnzuil NL en Belgie",
+        "categoryCode": "NLBEWZ",
+        "categoryDescription": "wijnzuil NL en Belgie",
+        "dateValidFrom": "2011-09-27",
+        "dataValidUntil": null
+      },
+      {
+        "code": "PLANNING",
+        "description": "Planning en uitbetaling",
+        "categoryCode": "GO",
+        "categoryDescription": "Get Organized",
+        "dateValidFrom": "2015-02-10",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "acties tbv sinterklaas RAD1",
+        "categoryCode": "SINT1",
+        "categoryDescription": "acties tbv sinterklaas RAD1",
+        "dateValidFrom": "2015-09-30",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "acties tbv sinterklaas RAD2",
+        "categoryCode": "SINT2",
+        "categoryDescription": "Acties tbv sinterklaas RAD2",
+        "dateValidFrom": "2015-09-30",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv sinterklaas RAD",
+        "categoryCode": "SINT3",
+        "categoryDescription": "Acties tbv sinterklaas RAD",
+        "dateValidFrom": "2015-10-01",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "actie",
+        "categoryCode": "NFKBUL",
+        "categoryDescription": "non food kerst bulk molen",
+        "dateValidFrom": "2015-11-13",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "tbv actie",
+        "categoryCode": "FRANCH",
+        "categoryDescription": "overzicht franch",
+        "dateValidFrom": "2016-02-16",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "tbv actie",
+        "categoryCode": "FRNCHX",
+        "categoryDescription": "winkels exc franchise",
+        "dateValidFrom": "2016-02-16",
+        "dataValidUntil": null
+      },
+      {
+        "code": "CITYPREM",
+        "description": "City Premium",
+        "categoryCode": "WIPROF",
+        "categoryDescription": "Winkelprofiel",
+        "dateValidFrom": "2016-09-13",
+        "dataValidUntil": null
+      },
+      {
+        "code": "STANDAARD",
+        "description": "2016 Standaard meubels",
+        "categoryCode": "FRUIT",
+        "categoryDescription": "Clustering Fruit",
+        "dateValidFrom": "2016-09-10",
+        "dataValidUntil": null
+      },
+      {
+        "code": "BIOLOGISCH",
+        "description": "2016 biologische tafels",
+        "categoryCode": "GROENT",
+        "categoryDescription": "Clustering Groente",
+        "dateValidFrom": "2018-05-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "kassa impuls verantwoord",
+        "categoryCode": "KASIMP",
+        "categoryDescription": "kassa impuls verantwoord",
+        "dateValidFrom": "2016-12-14",
+        "dataValidUntil": null
+      },
+      {
+        "code": "B",
+        "description": "AlgBlik",
+        "categoryCode": "P19350",
+        "categoryDescription": "Cluster Bier Pils",
+        "dateValidFrom": "2018-04-09",
+        "dataValidUntil": null
+      },
+      {
+        "code": "D",
+        "description": "Heineken",
+        "categoryCode": "P19351",
+        "categoryDescription": "Cluster Gekoeld bier",
+        "dateValidFrom": "2017-06-13",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Hoog opgeleid",
+        "categoryCode": "P19366",
+        "categoryDescription": "Cluster Rode wijn",
+        "dateValidFrom": "2020-09-14",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Single",
+        "categoryCode": "P19362",
+        "categoryDescription": "Cluster Water",
+        "dateValidFrom": "2020-02-17",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19550",
+        "categoryDescription": "Cluster Babyvoeding",
+        "dateValidFrom": "2017-03-15",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Sigaretten",
+        "categoryCode": "P19720",
+        "categoryDescription": "Cluster Tabak",
+        "dateValidFrom": "2017-03-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Kleinverpakking",
+        "categoryCode": "P19342",
+        "categoryDescription": "Cluster Cola",
+        "dateValidFrom": "2019-01-26",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Kleinverpakking",
+        "categoryCode": "P19352",
+        "categoryDescription": "Cluster Frisdrank overig",
+        "dateValidFrom": "2018-05-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19153",
+        "categoryDescription": "Cluster Kaas",
+        "dateValidFrom": "2020-09-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19180",
+        "categoryDescription": "Cluster Boter & Margarine",
+        "dateValidFrom": "2018-03-05",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Diefstalgevoelig",
+        "categoryCode": "P19568",
+        "categoryDescription": "Cluster Mond",
+        "dateValidFrom": "2017-04-19",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CB,CP,PR",
+        "categoryCode": "P19602",
+        "categoryDescription": "Cluster Diepvries IJs Gebak",
+        "dateValidFrom": "2018-11-26",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19608",
+        "categoryDescription": "Cluster Diepvries Pizza",
+        "dateValidFrom": "2018-11-26",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv Regionale besturing",
+        "categoryCode": "REGIO2",
+        "categoryDescription": "Acties Regio 2",
+        "dateValidFrom": "2018-04-23",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19100",
+        "categoryDescription": "Cluster Vis",
+        "dateValidFrom": "2018-09-17",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Hoog opgeleid",
+        "categoryCode": "P19368",
+        "categoryDescription": "Cluster Witte wijn & rose",
+        "dateValidFrom": "2020-09-14",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19116",
+        "categoryDescription": "Cluster Vegetarisch",
+        "dateValidFrom": "2020-09-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP",
+        "categoryCode": "P19354",
+        "categoryDescription": "Cluster Gekoeld sap",
+        "dateValidFrom": "2017-04-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "D",
+        "description": "City Premium",
+        "categoryCode": "P19202",
+        "categoryDescription": "Cluster Maaltijdgemak",
+        "dateValidFrom": "2020-04-27",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19186",
+        "categoryDescription": "Clusters Eieren",
+        "dateValidFrom": "2018-10-01",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CB,CP,PR",
+        "categoryCode": "P19184",
+        "categoryDescription": "Cluster Eetzuivel",
+        "dateValidFrom": "2020-03-23",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "City Budget, City Premium",
+        "categoryCode": "P19159",
+        "categoryDescription": "Cluster Borrel",
+        "dateValidFrom": "2019-09-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "E",
+        "description": "Overig NL",
+        "categoryCode": "P19258",
+        "categoryDescription": "Cluster Worst/Vlees/Vis",
+        "dateValidFrom": "2017-05-05",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19308",
+        "categoryDescription": "Cluster Groentegemak",
+        "dateValidFrom": "2020-04-27",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19150",
+        "categoryDescription": "Cluster Salades",
+        "dateValidFrom": "2017-05-10",
+        "dataValidUntil": null
+      },
+      {
+        "code": "B",
+        "description": "Premium Randstad",
+        "categoryCode": "P19112",
+        "categoryDescription": "Cluster Vlees",
+        "dateValidFrom": "2020-09-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "B",
+        "description": "NL overig",
+        "categoryCode": "P19146",
+        "categoryDescription": "Cluster Droge worst",
+        "dateValidFrom": "2020-08-11",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "City Premium, Premium",
+        "categoryCode": "P19152",
+        "categoryDescription": "Cluster Deli bediening",
+        "dateValidFrom": "2019-09-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Overig",
+        "categoryCode": "P19701",
+        "categoryDescription": "Cluster Hond",
+        "dateValidFrom": "2017-06-19",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19114",
+        "categoryDescription": "Cluster Wild & Gevogelte",
+        "dateValidFrom": "2017-05-11",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19182",
+        "categoryDescription": "Clustering Drinkzuivel",
+        "dateValidFrom": "2020-03-23",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19054",
+        "categoryDescription": "Cluster Chocolade",
+        "dateValidFrom": "2017-08-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19062",
+        "categoryDescription": "Cluster Tussendoor",
+        "dateValidFrom": "2017-05-31",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C",
+        "description": "C",
+        "categoryCode": "P19256",
+        "categoryDescription": "Cluster Soepen/Warm Tussendoor",
+        "dateValidFrom": "2017-06-01",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19884",
+        "categoryDescription": "Cluster Chips & zoutjes",
+        "dateValidFrom": "2019-07-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR,MG",
+        "categoryCode": "P19050",
+        "categoryDescription": "Cluster Koffie en Thee",
+        "dateValidFrom": "2019-06-24",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Noordwest Premium",
+        "categoryCode": "P19348",
+        "categoryDescription": "Speciaalbier",
+        "dateValidFrom": "2018-04-09",
+        "dataValidUntil": null
+      },
+      {
+        "code": "C",
+        "description": "Premium / City Premium",
+        "categoryCode": "P19414",
+        "categoryDescription": "Vers Gebak",
+        "dateValidFrom": "2018-02-26",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP",
+        "categoryCode": "P19252",
+        "categoryDescription": "Cluster AGF conserven/zuren",
+        "dateValidFrom": "2020-01-13",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19300",
+        "categoryDescription": "Cluster Aardappelen & Uien",
+        "dateValidFrom": "2020-09-21",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium - Liefde en Passie",
+        "categoryCode": "P19406",
+        "categoryDescription": "Cluster Bake Off Grootbrood",
+        "dateValidFrom": "2017-06-21",
+        "dataValidUntil": null
+      },
+      {
+        "code": "UAD",
+        "description": "Uitsluitend Apotheek Drogist",
+        "categoryCode": "P19560",
+        "categoryDescription": "Cluster Gezondheid",
+        "dateValidFrom": "2019-11-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CB,CP,PR,MG",
+        "categoryCode": "P19452",
+        "categoryDescription": "Cluster Basis Internationaal",
+        "dateValidFrom": "2017-08-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19455",
+        "categoryDescription": "Cluster Rijst",
+        "dateValidFrom": "2017-12-14",
+        "dataValidUntil": null
+      },
+      {
+        "code": "AH",
+        "description": "CP, Prem, met halal",
+        "categoryCode": "P19610",
+        "categoryDescription": "DV Snacks",
+        "dateValidFrom": "2018-11-26",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "City Premium",
+        "categoryCode": "P19407",
+        "categoryDescription": "cluster Banket",
+        "dateValidFrom": "2018-01-04",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "(City) Premium",
+        "categoryCode": "P19360",
+        "categoryDescription": "Cluster Sappen & Siropen",
+        "dateValidFrom": "2018-05-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "ramadan rad 1",
+        "categoryCode": "RAM1",
+        "categoryDescription": "Ramadan rad 1",
+        "dateValidFrom": "2020-03-11",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties tbv regionale besturing",
+        "categoryCode": "CONV1",
+        "categoryDescription": "Acties CONV regio1",
+        "dateValidFrom": "2018-05-15",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19058",
+        "categoryDescription": "Clustering Koek",
+        "dateValidFrom": "2018-06-15",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "Acties AGF Regio",
+        "categoryCode": "AGFZAA",
+        "categoryDescription": "cluster AGF",
+        "dateValidFrom": "2018-07-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19604",
+        "categoryDescription": "Cluster dv maaltijdcomponenten",
+        "dateValidFrom": "2018-11-26",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "City",
+        "categoryCode": "P19878",
+        "categoryDescription": "cluster broodvervangers",
+        "dateValidFrom": "2019-02-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19155",
+        "categoryDescription": "Cluster voor DNAH assgrp 155",
+        "dateValidFrom": "2019-09-02",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19410",
+        "categoryDescription": "Clustering Houdbaar Brood",
+        "dateValidFrom": "2019-06-24",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19158",
+        "categoryDescription": "Cluster Kaas ZB",
+        "dateValidFrom": "2019-06-07",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "City Premium",
+        "categoryCode": "P19315",
+        "categoryDescription": "Cluster Groente",
+        "dateValidFrom": "2019-07-15",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium, City Premium",
+        "categoryCode": "P19316",
+        "categoryDescription": "Clustering Fruit",
+        "dateValidFrom": "2019-07-15",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "CP,PR",
+        "categoryCode": "P19208",
+        "categoryDescription": "Cluster APR",
+        "dateValidFrom": "2020-04-27",
+        "dataValidUntil": null
+      },
+      {
+        "code": "VVG",
+        "description": "Werkmethode Grillen",
+        "categoryCode": "P19173",
+        "categoryDescription": "Deli grill artikelen",
+        "dateValidFrom": "2019-08-14",
+        "dataValidUntil": null
+      },
+      {
+        "code": "NO",
+        "description": "Noord Oost",
+        "categoryCode": "P19253",
+        "categoryDescription": "Kaas Streeckgenoten",
+        "dateValidFrom": "2019-08-16",
+        "dataValidUntil": null
+      },
+      {
+        "code": "F",
+        "description": "Randstad Noord",
+        "categoryCode": "P19174",
+        "categoryDescription": "Deli Streeckgenoten",
+        "dateValidFrom": "2020-02-17",
+        "dataValidUntil": null
+      },
+      {
+        "code": "V",
+        "description": "Voordeel",
+        "categoryCode": "P19156",
+        "categoryDescription": "Verse noten",
+        "dateValidFrom": "2019-10-28",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "City",
+        "categoryCode": "P19860",
+        "categoryDescription": "Cluster wholefoods",
+        "dateValidFrom": "2019-10-18",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "foodservice winkels",
+        "categoryCode": "FOODSV",
+        "categoryDescription": "foodservice winkels",
+        "dateValidFrom": "2019-11-29",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "City Budget, City Premium",
+        "categoryCode": "P19056",
+        "categoryDescription": "Cluster kassameubel",
+        "dateValidFrom": "2020-03-18",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "regulier",
+        "categoryCode": "P19858",
+        "categoryDescription": "food service",
+        "dateValidFrom": "2020-05-25",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "city",
+        "categoryCode": "P19876",
+        "categoryDescription": "broodbeleg",
+        "dateValidFrom": "2020-06-22",
+        "dataValidUntil": null
+      },
+      {
+        "code": "ACTIE",
+        "description": "cluster voor foodservice",
+        "categoryCode": "AHFSTG",
+        "categoryDescription": "cluster voor foodservice",
+        "dateValidFrom": "2020-05-05",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "City - ready to drink",
+        "categoryCode": "P19358",
+        "categoryDescription": "aperitieven mixen",
+        "dateValidFrom": "2020-09-14",
+        "dataValidUntil": null
+      },
+      {
+        "code": "A",
+        "description": "Premium",
+        "categoryCode": "P19314",
+        "categoryDescription": "cluster gekoeld fruit",
+        "dateValidFrom": "2020-06-24",
+        "dataValidUntil": null
+      },
+      {
+        "code": "F1940G",
+        "description": "DNAH 4.0 GrootWinkelPlan",
+        "categoryCode": "FRMVRS",
+        "categoryDescription": "Formuleversie",
+        "dateValidFrom": "2020-09-26",
+        "dataValidUntil": null
+      },
+      {
+        "code": "E",
+        "description": "Extreem",
+        "categoryCode": "RISICO",
+        "categoryDescription": "Risicolabel winkel",
+        "dateValidFrom": "2020-09-26",
+        "dataValidUntil": null
+      }
+    ],
+    "temporaryClosurePeriods": [
+      {
+        "reason": "Formatwijziging",
+        "remarks": null,
+        "temporaryEslStartDate": null,
+        "dateValidFrom": "2020-01-01",
+        "dateValidFrom": "2022-01-01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+##Application Name to appear in Azure App Insights
+spring:
+  application:
+    name: store_commerce_service
+  ##Properties for Mongo
+  data:
+    mongodb:
+      database: STMS
+      uri: mongodb://commerce-cosmos-mongo-db:HTUnIz2LeKE2dddu3ggAcI0z9m6SZXKwMZxWiNhUMAN8vSwoAuUkTPbbt2tcUu8wjgX1h8UZENnE07jU6r379g==@commerce-cosmos-mongo-db.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@commerce-cosmos-mongo-db@
+server:
+  port: 8098
+  application:
+    name: store_commerce_service
+##Properties for Prometheus End Points
+endpoints:
+  prometheus:
+    enabled: true
+management:
+  endpoints:
+    web:
+      base-path: "/api/v1/store-commerce-service"
+      exposure:
+        include: "*"
+##OpenAPI To Enable
+springdoc:
+  swagger-ui.path: "/api/v1/store-commerce-service/swagger-ui-custom.html"
+  api-docs.path: "/api/v1/store-commerce-service/api-docs"
+##Azure Cosmos Credentials and App Insights Key
+azure:
+  application-insights:
+    instrumentation-key: f0807cb4-14fe-437c-ab41-6ed885735d2b
+
+service:
+  perf-urls:
+    get-model-url: "http://localhost:8098/api/v1/store-commerce-service/store/"
+  test-data:
+    id: "1001"
